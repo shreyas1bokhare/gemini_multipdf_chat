@@ -1,8 +1,13 @@
 
+![image](https://github.com/shreyas1bokhare/gemini_multipdf_chat/assets/126697779/705c6446-c43f-4705-87b2-9f230edf6613)
 
 ## Features
 
 - **PDF Upload:** Users can upload multiple PDF files.
+- ![image](https://github.com/shreyas1bokhare/gemini_multipdf_chat/assets/126697779/6297c651-0fbf-4731-9d0d-51f00a157971)
+- ![image](https://github.com/shreyas1bokhare/gemini_multipdf_chat/assets/126697779/7184cb37-c709-42da-9c7f-4652b87850d8)
+
+
 - **Text Extraction:** Extracts text from uploaded PDF files.
 - **Conversational AI:** Uses the Gemini conversational AI model to answer user questions.
 - **Chat Interface:** Provides a chat interface to interact with the chatbot.
